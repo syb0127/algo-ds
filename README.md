@@ -8,7 +8,7 @@
 5. 다른 사람들의 PR을 보고 코드리뷰를 진행한다.
 
 ## commit 규칙
-- commit 메세지: [문제 출처(플랫폼)] 문제 이름 / 난이도 / 걸린시간
+- commit 메세지: 난이도 / 걸린시간
     ```
-  git commit -m "[BOJ] Hello World / 브5 / 1m"
+  git commit -m "브5 / 1m"
    ```
